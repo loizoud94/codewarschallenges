@@ -12,3 +12,6 @@ Split Strings:
 
 Find The Parity Outlier:
 <img width="1051" alt="Screenshot 2024-02-01 at 17 09 13" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/98a76783-1823-4bd3-9ade-47a3fe40d4be">
+
+Stop gninnipS My sdroW!
+<img width="1050" alt="Screenshot 2024-02-01 at 17 19 07" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/18f70d14-9f4d-4ce4-9701-05693ddd94d5">
