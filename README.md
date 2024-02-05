@@ -15,3 +15,6 @@ Find The Parity Outlier:
 
 Stop gninnipS My sdroW!
 <img width="1050" alt="Screenshot 2024-02-01 at 17 19 07" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/18f70d14-9f4d-4ce4-9701-05693ddd94d5">
+
+Multiple of 3 or 5:
+![Screenshot 2024-02-05 at 10 41 12](https://github.com/loizoud94/codewarschallenges/assets/152619396/0b87a462-a7de-42b0-a768-f4fd282796e4)
