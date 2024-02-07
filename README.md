@@ -18,3 +18,6 @@ Stop gninnipS My sdroW!
 
 Multiple of 3 or 5:
 ![Screenshot 2024-02-05 at 10 41 12](https://github.com/loizoud94/codewarschallenges/assets/152619396/0b87a462-a7de-42b0-a768-f4fd282796e4)
+
+Bit Counting:
+<img width="1330" alt="Screenshot 2024-02-07 at 16 52 00" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/32750cb2-d408-4638-98cf-5ae07c26fd41">
