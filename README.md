@@ -21,3 +21,6 @@ Multiple of 3 or 5:
 
 Bit Counting:
 <img width="1330" alt="Screenshot 2024-02-07 at 16 52 00" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/32750cb2-d408-4638-98cf-5ae07c26fd41">
+
+Convert String to camelCase:
+<img width="1314" alt="Screenshot 2024-02-08 at 20 01 40" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/61c7a5fe-d5f4-4209-879c-1e49ecd88b34">
