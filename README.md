@@ -24,3 +24,6 @@ Bit Counting:
 
 Convert String to camelCase:
 <img width="1314" alt="Screenshot 2024-02-08 at 20 01 40" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/61c7a5fe-d5f4-4209-879c-1e49ecd88b34">
+
+Roman Numerals Encoder:
+<img width="1333" alt="Screenshot 2024-02-09 at 13 47 27" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/d2c7dff7-32b1-4d95-93d0-84f4f0c08721">
