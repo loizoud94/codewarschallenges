@@ -27,3 +27,7 @@ Convert String to camelCase:
 
 Roman Numerals Encoder:
 <img width="1333" alt="Screenshot 2024-02-09 at 13 47 27" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/d2c7dff7-32b1-4d95-93d0-84f4f0c08721">
+
+Is a number a prime:
+<img width="1046" alt="Screenshot 2024-02-13 at 17 25 24" src="https://github.com/loizoud94/codewarschallenges/assets/152619396/3a99ba3b-6f2c-49b8-9679-62e5b513fa6a">
+
